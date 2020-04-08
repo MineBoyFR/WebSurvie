@@ -24,7 +24,15 @@
         <div id="ligne1"></div>
     </aside>
     <article>
-
+        <div>
+            <form>
+                <input type="text" name="pseudo" id="pseudo" placeholder="Votre Pseudo">
+                <input type="text" name="age" id="age" placeholder="Votre age">
+                <input type="text" name="discord" id="discord" placeholder="Votre Discord">
+                <input type="text" name="motivation" id="motivation" placeholder="Votre motivation">
+                <input type="submit" name="envoie" id="envoie">
+            </form>
+        </div>
     </article>
 </section>
 <footer>
