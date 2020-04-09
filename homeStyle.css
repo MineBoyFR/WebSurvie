@@ -1,3 +1,7 @@
+html {
+    background-color: #3f4852;
+}
+
 /*-Haut Page-*/
 .postitre {
     display: flex;
@@ -14,6 +18,128 @@
     font-size: 200%;
 }
 
+#gif {
+
+}
+
 /*-Millieu Page-*/
+.post {
+    display: flex;
+    flex-direction: column;
+    max-width: 250px;
+    height: 30px;
+    position: absolute;
+    left: 50%;
+    top: 70%;
+}
+
+.bloc {
+    display: flex;
+    flex-direction: column;
+}
+
+#bloc1 {
+    width: 20%;
+    height: 5%;
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #eaeaea;
+    position: absolute;
+    left: 43%;
+    top: 60%;
+}
+
+#bloc2 {
+    width: 20%;
+    height: 5%;
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #eaeaea;
+    position: absolute;
+    left: 43%;
+    top: 75%;
+}
+
+#bloc3 {
+    width: 20%;
+    height: 5%;
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #eaeaea;
+    position: absolute;
+    left: 43%;
+    top: 90%;
+}
+
+#bloc4 {
+    width: 20%;
+    height: 5%;
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #eaeaea;
+    position: absolute;
+    left: 43%;
+    top: 105%;
+}
+
+#pseudo {
+    position: absolute;
+    top: -120%;
+}
+
+#age {
+    position: absolute;
+    top: 365%;
+}
+
+#discord {
+    position: absolute;
+    top: 840%;
+}
+
+#motivation {
+    position: absolute;
+    top: 1330%;
+}
+
+#envoie {
+    position: absolute;
+    top: 1510%;
+    left: 30px;
+}
+
+.hallogo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#logo1 {
+    position: absolute;
+    position: relative;
+    top: 150px;
+    left: 80px;
+}
+
+#logo2 {
+    position: absolute;
+    position: relative;
+    top: 275px;
+    left: 80px;
+}
+
+#logo3 {
+    position: absolute;
+    position: relative;
+    top: 400px;
+    left: 80px;
+}
+
+#logo4 {
+    position: absolute;
+    position: relative;
+    top: 525px;
+    left: 80px;
+}
 
 /*-Bas de page-*/

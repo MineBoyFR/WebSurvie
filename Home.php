@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="fr" dir="ltr">
-
 <head>
     <meta charset="utf-8">
     <title>Page home</title>
@@ -12,12 +11,7 @@
         <h1 id="titre1">Survie 1.16</h1>
         <h3 id="titre2">Rejoin nous maintenant</h3>
     </nav>
-    <div id="gif">
-        <!--Gif Fond page Moitier 1-->
-    </div>
-    <div id="bloc2">
-        <!--Gif Fond page Moitier 2-->
-    </div>
+    <div id="gif"></div><!--Bloc temporaire-->
 </header>
 <section>
     <aside>
@@ -32,8 +26,14 @@
                 <div id="logo4"><img src="#Soon"></div>
             </div>
         </aside>
+        <div class="bloc">
+            <div id="bloc1"></div>
+            <div id="bloc2"></div>
+            <div id="bloc3"></div>
+            <div id="bloc4"></div>
+        </div>
         <div>
-            <form method="post">
+            <form method="post" class="post">
                 <input type="text" name="pseudo" id="pseudo" placeholder="Votre Pseudo" required>
                 <input type="text" name="age" id="age" placeholder="Votre age">
                 <input type="text" name="discord" id="discord" placeholder="Votre Discord" required>
