@@ -114,11 +114,47 @@ html {
     align-items: center;
 }
 
+.text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#text1 {
+    z-index: 1;
+    position: relative;
+    top: 85px;
+    left: 80px;
+
+}
+
+#text2 {
+    z-index: 1;
+    position: relative;
+    top: 165px;
+    left: 80px;
+}
+
+#text3 {
+    z-index: 1;
+    position: relative;
+    top: 250px;
+    left: 80px;
+}
+
+#text4 {
+    z-index: 1;
+    position: relative;
+    top: 355px;
+    left: 80px;
+}
+
 #logo1 {
     position: absolute;
     position: relative;
     top: 150px;
     left: 80px;
+    z-index: 1;
 }
 
 #logo2 {
@@ -126,6 +162,7 @@ html {
     position: relative;
     top: 275px;
     left: 80px;
+    z-index: 1;
 }
 
 #logo3 {
@@ -133,6 +170,7 @@ html {
     position: relative;
     top: 400px;
     left: 80px;
+    z-index: 1;
 }
 
 #logo4 {
@@ -140,6 +178,7 @@ html {
     position: relative;
     top: 525px;
     left: 80px;
+    z-index: 1;
 }
 
 /*-Bas de page-*/

@@ -54,6 +54,20 @@
             ?>
         </div>
     </article>
+    <article class="text"> <!--text no official-->
+        <div id="text1">
+            <p>Le pseudo est important pour l'ajoute à la liste <br>Blanche du serveur.</p>
+        </div>
+        <div id="text2">
+            <p>L'age n'est pas le plus important, mais il est tous de même conseiller d'avoir 16ans au minimum.</p>
+        </div>
+        <div id="text3">
+            <p>Le discord est primordial pour vous envoyer le serveur si votre motivation, nous motiv.</p>
+        </div>
+        <div id="text4">
+            <p>Il est consieller de nous détailler pourquoi vous voulez rejoindre.</p>
+        </div>
+    </article>
 </section>
 <footer>
     <p>By : MineBoy</p>
