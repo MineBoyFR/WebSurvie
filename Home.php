@@ -24,6 +24,14 @@
         <div id="ligne1"></div>
     </aside>
     <article>
+        <aside>
+            <div class="hallogo">
+                <div id="logo1"><img src="#"></div>
+                <div id="logo2"><img src="#"></div>
+                <div id="logo3"><img src="#"></div>
+                <div id="logo4"><img src="#"></div>
+            </div>
+        </aside>
         <div>
             <form method="post">
                 <input type="text" name="pseudo" id="pseudo" placeholder="Votre Pseudo" required>
