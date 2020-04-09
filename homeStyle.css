@@ -1,4 +1,18 @@
 /*-Haut Page-*/
+.postitre {
+    display: flex;
+    flex-direction: column;
+    margin-left: 50%;
+    margin-top: 10%;
+}
+
+#titre1 {
+    font-size: 300%;
+}
+
+#titre2 {
+    font-size: 200%;
+}
 
 /*-Millieu Page-*/
 

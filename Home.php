@@ -4,13 +4,13 @@
 <head>
     <meta charset="utf-8">
     <title>Page home</title>
-    <link rel="stylesheet" href="homeStyle.css">
+    <link rel="stylesheet" type="text/css" href="homeStyle.css">
 </head>
 <body>
 <header>
     <nav class="postitre">
-        <h1 id="titre1">Titre</h1>
-        <h3 id="titre2">SousTitre</h3>
+        <h1 id="titre1">Survie 1.16</h1>
+        <h3 id="titre2">Rejoin nous maintenant</h3>
     </nav>
     <div id="gif">
         <!--Gif Fond page Moitier 1-->
@@ -26,10 +26,10 @@
     <article>
         <aside>
             <div class="hallogo">
-                <div id="logo1"><img src="#"></div>
-                <div id="logo2"><img src="#"></div>
-                <div id="logo3"><img src="#"></div>
-                <div id="logo4"><img src="#"></div>
+                <div id="logo1"><img src="#Soon"></div>
+                <div id="logo2"><img src="#Soon"></div>
+                <div id="logo3"><img src="#Soon"></div>
+                <div id="logo4"><img src="#Soon"></div>
             </div>
         </aside>
         <div>
